@@ -1,0 +1,12 @@
+C:\Users\koeni\Documents\CS325\Portfolio Project\MasterMind\MasterMind\bin\Release\MasterMind.exe.config
+C:\Users\koeni\Documents\CS325\Portfolio Project\MasterMind\MasterMind\bin\Release\MasterMind.exe
+C:\Users\koeni\Documents\CS325\Portfolio Project\MasterMind\MasterMind\bin\Release\MasterMind.pdb
+C:\Users\koeni\Documents\CS325\Portfolio Project\MasterMind\MasterMind\obj\Release\MasterMind.frmInstructions.resources
+C:\Users\koeni\Documents\CS325\Portfolio Project\MasterMind\MasterMind\obj\Release\MasterMind.frmMain.resources
+C:\Users\koeni\Documents\CS325\Portfolio Project\MasterMind\MasterMind\obj\Release\MasterMind.ctrlGuess.resources
+C:\Users\koeni\Documents\CS325\Portfolio Project\MasterMind\MasterMind\obj\Release\MasterMind.frmSolver.resources
+C:\Users\koeni\Documents\CS325\Portfolio Project\MasterMind\MasterMind\obj\Release\MasterMind.Properties.Resources.resources
+C:\Users\koeni\Documents\CS325\Portfolio Project\MasterMind\MasterMind\obj\Release\MasterMind.csproj.GenerateResource.cache
+C:\Users\koeni\Documents\CS325\Portfolio Project\MasterMind\MasterMind\obj\Release\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\koeni\Documents\CS325\Portfolio Project\MasterMind\MasterMind\obj\Release\MasterMind.exe
+C:\Users\koeni\Documents\CS325\Portfolio Project\MasterMind\MasterMind\obj\Release\MasterMind.pdb
